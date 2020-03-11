@@ -1,0 +1,12 @@
+.button {
+  background-color:#79BAC1;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+.button:hover {
+  background-color: #512B58;
+  color: white;
+}
